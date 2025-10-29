@@ -44,7 +44,7 @@ An open-source package that provides [specific functionality], used by X project
 
 ## 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/sanaullah-asif-b1359818a/)  
+- [LinkedIn](www.linkedin.com/in/md-sanaullah-b1359818a)  
 - [Personal Website](#)  
 - [Email](mailto:mail2asifsana@gmail.com)
 
