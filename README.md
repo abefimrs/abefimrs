@@ -48,5 +48,5 @@ An open-source package that provides [specific functionality], used by X project
 - [Personal Website](#)  
 - [Email](mailto:mail2asifsana@gmail.com)
 
-![ Md. Sanaullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smukhiasif&show_icons=true&theme=dracula)
+
 
